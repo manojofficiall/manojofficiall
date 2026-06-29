@@ -54,7 +54,7 @@ Dedicated Computer Science student with a proven track record of developing scal
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumar&show_icons=true&theme=tokyonight&hide_border=true))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumar&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages]()
 
