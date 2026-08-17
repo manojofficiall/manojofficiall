@@ -14,7 +14,7 @@
 
 [![PORTFOLIO](https://img.shields.io/badge/🌐_PORTFOLIO-555555?style=for-the-badge&logoColor=white)](https://manojofficiall.github.io/ManojkumarC_portfolio/)
 [![GITHUB](https://img.shields.io/badge/◉_GITHUB-151515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojofficiall)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-087EBD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-087EBD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumar-c-b039a2340/)
 
 </div>
 
